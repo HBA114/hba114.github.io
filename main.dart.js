@@ -51757,7 +51757,7 @@ A.JC.prototype={
 ap(){return new A.Js(B.n)}}
 A.Js.prototype={
 P(a,b){var s=null,r="https",q="https://avatars.githubusercontent.com/u/55455410?s=400&u=23dff1a8423bb2dad3b44393e73451a9e2a12fe5&v=4",p=t.E
-return new A.tL(A.a60(A.a([new A.Jz(s),B.C0,A.a2s(A.Co(A.a([B.kw,A.a2s(A.a7D(A.a60(A.a([B.I4,B.q9,A.a7R("        Merhaba, ki\u015fisel bloguma ho\u015fgeldiniz. A\u015fa\u011f\u0131daki hesaplar\u0131mdan neler yapt\u0131\u011f\u0131m\u0131 takip edebilirsiniz. ",s,s,s),B.C1,A.a7D(A.Co(A.a([this.wl("Github",r,"github.com","/HBA114",q),this.wl("LinkedIn",r,"linkedin.com","in/hasan-basri-ayhaner-9b2452228",q),this.wl("My Another Design",r,"virtusgames.github.io","","https://avatars.githubusercontent.com/u/101461765?v=4")],p),B.bo),B.ak)],p)),B.b2),8),B.kw],p),B.bo),1)],p)),s)},
+return new A.tL(A.a60(A.a([new A.Jz(s),B.C0,A.a2s(A.Co(A.a([B.kw,A.a2s(A.a7D(A.a60(A.a([B.I4,B.q9,A.a7R("        Merhaba, ki\u015fisel bloguma ho\u015fgeldiniz. A\u015fa\u011f\u0131daki hesaplar\u0131mdan neler yapt\u0131\u011f\u0131m\u0131 takip edebilirsiniz. ",s,s,s),B.C1,A.a7D(A.Co(A.a([this.wl("Github",r,"github.com","/HBA114",q),this.wl("LinkedIn",r,"linkedin.com","in/hasan-basri-ayhaner-9b2452228",q),this.wl("Virtus Games",r,"virtusgames.github.io","","https://avatars.githubusercontent.com/u/101461765?v=4")],p),B.bo),B.ak)],p)),B.b2),8),B.kw],p),B.bo),1)],p)),s)},
 wl(a,b,c,d,e){var s=null
 return A.a2z(s,new A.xZ(A.CN(A.Co(A.a([B.C2,A.CN(new A.yy(B.to,new A.r0(A.ai3(s,s,new A.nf(e,1,s)),s),s),90,90),B.C3,A.a7R(a,s,s,s)],t.E),B.bo),100,200),s),B.aN,!1,s,s,s,s,s,s,s,s,s,s,new A.a0a(b,c,d),s,s,s,s,s,s)}}
 A.a0a.prototype={
