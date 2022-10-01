@@ -49782,7 +49782,7 @@ var $async$m6=A.W(function(a,b){if(a===1)return A.S(b,r)
 while(true)switch(s){case 0:p=A
 o=B.S
 s=2
-return A.R($.fl().nT("../lib/language/buttons.json"),$async$m6)
+return A.R($.fl().nT("assets/language/buttons.json"),$async$m6)
 case 2:q.ag(new p.YO(q,o.kP(0,b,null)))
 return A.T(null,r)}})
 return A.U($async$m6,r)}}
@@ -49837,7 +49837,7 @@ var $async$fi=A.W(function(a,b){if(a===1)return A.S(b,r)
 while(true)switch(s){case 0:p=A
 o=B.S
 s=2
-return A.R($.fl().nT("../lib/language/page_texts.json"),$async$fi)
+return A.R($.fl().nT("assets/language/page_texts.json"),$async$fi)
 case 2:q.ag(new p.XD(q,o.kP(0,b,null)))
 return A.T(null,r)}})
 return A.U($async$fi,r)}}
@@ -49856,7 +49856,7 @@ return A.a47(new A.lQ(a.a1(t.w).f.a,A.a3k(A.a([B.km,B.bo,new A.dC(B.cq,A.i2(this
 m7(){var s=0,r=A.V(t.H),q=this,p,o
 var $async$m7=A.W(function(a,b){if(a===1)return A.S(b,r)
 while(true)switch(s){case 0:s=2
-return A.R($.fl().nT("../lib/language/page_texts.json"),$async$m7)
+return A.R($.fl().nT("assets/language/page_texts.json"),$async$m7)
 case 2:o=b
 q.d=o
 o=B.S.kP(0,o,null)
@@ -49884,7 +49884,7 @@ fi(){var s=0,r=A.V(t.H),q=this,p,o,n,m
 var $async$fi=A.W(function(a,b){if(a===1)return A.S(b,r)
 while(true)switch(s){case 0:m=B.S
 s=2
-return A.R($.fl().nT("../lib/language/page_texts.json"),$async$fi)
+return A.R($.fl().nT("assets/language/page_texts.json"),$async$fi)
 case 2:p=m.kP(0,b,null)
 o=J.ap(p)
 n=q.r
