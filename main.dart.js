@@ -60847,7 +60847,7 @@ O(a){var s,r=this,q=null,p=a.W(t.w).f.a,o=p.a<=650,n=r.w
 n===$&&A.b()
 n.S(0,new A.a7b(r))
 s=r.d
-return A.abe(new A.nC(p,A.abh(A.Ax(A.a([new A.lv(n,q),B.c6,new A.dj(B.cn,A.vm(s,A.e4(B.j,o?16:20,q)),q),r.AV("Github","https://github.com/HBA114","assets/images/github.png",r.e,o),r.AV("LinkedIn","https://www.linkedin.com/in/hasan-basri-ayhaner-9b2452228/","assets/images/linkedin.png",r.f,o)],t.p),B.bL,B.ay,B.aJ)),q),new A.lw(n,q))},
+return A.abe(new A.nC(p,A.abh(A.Ax(A.a([new A.lv(n,q),B.c6,new A.dj(B.cn,A.vm(s,A.e4(B.j,o?16:20,q)),q),r.AV("Github","https://github.com/HBA114","https://raw.githubusercontent.com/HBA114/hba114.github.io/main/assets/assets/images/github.png",r.e,o),r.AV("LinkedIn","https://www.linkedin.com/in/hasan-basri-ayhaner-9b2452228/","https://raw.githubusercontent.com/HBA114/hba114.github.io/main/assets/assets/images/linkedin.png",r.f,o)],t.p),B.bL,B.ay,B.aJ)),q),new A.lw(n,q))},
 AV(a,b,c,d,e){var s=t.p,r=A.ER(A.a([this.OV(a,b,c,new A.m7(c),e)],s),B.bM,B.ay,B.aJ)
 return A.Ax(A.a([r,new A.dj(B.zo,A.vm(d,A.e4(null,e?12:16,null)),null)],s),B.bL,B.ay,B.aJ)},
 OV(a,b,c,d,e){var s=null,r=A.iw(10),q=A.iw(20),p=A.iw(50)
